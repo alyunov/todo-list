@@ -1,8 +1,9 @@
-module github.com/alyunov/todo-list
+module guthib.com/alyunov/todo-list
 
-go 1.23.0
+go 1.21.0
 
 require (
+	github.com/alyunov/todo-list v0.0.0-20250114202411-5f193fdbbb7b
 	github.com/go-chi/chi/v5 v5.2.0
 	gorm.io/driver/postgres v1.5.11
 	gorm.io/gorm v1.25.12

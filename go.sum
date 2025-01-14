@@ -1,3 +1,5 @@
+github.com/alyunov/todo-list v0.0.0-20250114202411-5f193fdbbb7b h1:y3bqxvrzQSmfzzEgYjltTouvy2oOxOwS4WzJr9LtyIs=
+github.com/alyunov/todo-list v0.0.0-20250114202411-5f193fdbbb7b/go.mod h1:r8iyhqIldGgcS1gXiKlTWeRJSckpArYPUolJoPC7JSM=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
